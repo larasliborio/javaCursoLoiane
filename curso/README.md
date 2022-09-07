@@ -124,24 +124,17 @@ cd para adicionar ao caminho  uma pasta
                             
 ```
 ```
+###erros q podem dar
 
 ```
 ```
-
-```
-
+erro  de sintaxe
 ```
 ```
-
+erro de semânticas
 ```
 ```
-
-```
-```
-
-```
-```
-
+erro em tenpo de execulsao
 ```
 ```
 
@@ -155,4 +148,12 @@ cd para adicionar ao caminho  uma pasta
 ```
 
 ```
+```
+
+```
+```
+
+```
+```
+
 ```
