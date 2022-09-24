@@ -137,19 +137,22 @@ erro de semânticas
 erro em tenpo de execulsao
 ```
 ```
+Pacotes forma de organizar classes
 
 ```
 ```
-
+Metodo = conportamento
 ```
 ```
 
 ```
 ```
+classe = descrição de um grupo de objetos
 
 ```
 ```
-
+Herança= reutilização de estruturae do conportamento de uma claasse
+ex:herda a caracteristca da classe pai
 ```
 ```
 
