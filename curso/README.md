@@ -160,3 +160,29 @@ ex:herda a caracteristca da classe pai
 ```
 
 ```
+## TIPOS PRIMITIVOS
+
+- BOOLEAN
+- NUMEROS
+
+## NUMEROS
+### INTEIROS
+
+
+- BYTE
+- SHORT
+- INT
+- LONG
+- CHAR
+
+### PONTOS FLUTUANTES
+
+
+-  FLOAT
+- DOUBLE
+
+### OS MAIS UZADOS EM JAVA SÃO
+
+- INT
+- LONG
+- DOUBLE

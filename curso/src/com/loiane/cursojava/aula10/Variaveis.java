@@ -4,18 +4,18 @@ public class Variaveis {
 
         public static void main(String []  args){
         // convenção java
-        Int idade = 20;
+        int idade = 20;
         
         String nome ="loiane";
-        
+            
         String nomeDoMeuCacharro ="totó";
         
         idade = 25;
         
         
-        system.out.println("Idade = " + idade);
+        System.out.println("Idade = " + idade + "e meu cachorro chama-se: " + nomeDoMeuCacharro);
         
-        system.out.println("Nome = " + nome);
+        System.out.println("Nome = " + nome);
         }
         
         
