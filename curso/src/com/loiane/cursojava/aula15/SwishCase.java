@@ -12,7 +12,7 @@ public class SwishCase {
 
         int diaSemana = scan.nextInt();
 
-        if (diaSemana == 1) {
+        /*if (diaSemana == 1) {
             System.out.println("DOMINGO");
         } else if (diaSemana == 2) {
             System.out.println("SEGUNDA-FEIRA");
@@ -27,7 +27,7 @@ public class SwishCase {
         } else if (diaSemana == 7) {
             System.out.println("SÁBADO");
         } else {
-            System.out.println("NÃO É UM DIA DA SEMANA VALIDO");
+            System.out.println("NÃO É UM DIA DA SEMANA VALIDO");*/
 
             switch (diaSemana) {
                 case 2:
@@ -46,4 +46,4 @@ public class SwishCase {
             }
         }
     }
-}
+
