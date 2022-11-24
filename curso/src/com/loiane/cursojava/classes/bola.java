@@ -1,4 +1,4 @@
-package com.loiane.cursojava.classes_2;
+package com.loiane.cursojava.classes;
 
 public class bola {
     

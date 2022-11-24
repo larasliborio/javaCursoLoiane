@@ -1,4 +1,4 @@
-package com.loiane.cursojava.classes_4;
+package com.loiane.cursojava.classes;
 
 public class cafeteira {
     

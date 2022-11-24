@@ -1,4 +1,4 @@
-package com.loiane.cursojava.classes_3;
+package com.loiane.cursojava.classes;
 
 public class boneca {
  

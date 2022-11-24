@@ -1,4 +1,4 @@
-package com.loiane.cursojava.classes_5;
+package com.loiane.cursojava.classes;
 
 public class tv {
     
