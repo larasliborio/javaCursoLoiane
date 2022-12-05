@@ -1,7 +1,6 @@
-package com.loiane.cursojava.aula25;
+package com.loiane.cursojava.aula26;
 
-public class carro { 
-
+public class carro {
     String marca;
     String modelo;
     int numPassageiros;
@@ -17,4 +16,6 @@ public class carro {
         return capConbustivel*consumoConbustivel;
     
     }
+
+    
 }
