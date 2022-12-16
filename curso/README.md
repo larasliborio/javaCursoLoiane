@@ -186,3 +186,22 @@ ex:herda a caracteristca da classe pai
 - INT
 - LONG
 - DOUBLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
