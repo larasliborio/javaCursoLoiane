@@ -4,3 +4,339 @@
 2022.12.16 22:09:47 INFO  time: initialize in 3.12s[0m
 2022.12.16 22:09:48 WARN  Build server is not auto-connectable.[0m
 2022.12.16 22:09:48 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.12.16 22:28:06 INFO  shutting down Metals[0m
+2022.12.22 16:29:31 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lara/javaCursoLoiane/curso/.metals/lsp.trace.json or /home/lara/.cache/metals/lsp.trace.json[0m
+2022.12.22 16:29:33 INFO  logging to file /home/lara/javaCursoLoiane/curso/.metals/metals.log[0m
+2022.12.22 16:29:33 INFO  Started: Metals version 0.11.9 in workspace '/home/lara/javaCursoLoiane/curso' for client Visual Studio Code 1.74.1.[0m
+2022.12.22 16:29:36 INFO  time: initialize in 3.24s[0m
+2022.12.22 16:29:37 WARN  Build server is not auto-connectable.[0m
+2022.12.22 16:29:37 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.12.22 16:30:04 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/carro.java[0m
+2022.12.22 16:30:08 INFO  time: code lens generation in 2.72s[0m
+2022.12.22 16:30:28 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula30/carro.java[0m
+2022.12.22 16:30:31 INFO  time: code lens generation in 1.33s[0m
+Dec 22, 2022 4:30:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+Dec 22, 2022 4:31:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+2022.12.22 16:31:38 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/teste carro.java[0m
+2022.12.22 16:31:39 WARN  Running javac-semanticdb failed for file:///home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/teste%20carro.java. Output:
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/teste carro.java:1: error: illegal character: '`'
+class `teste carro` {
+      ^
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/teste carro.java:1: error: illegal character: '`'
+class `teste carro` {
+                  ^
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/teste carro.java:3: error: reached end of file while parsing
+}
+ ^
+3 errors[0m
+2022.12.22 16:32:21 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java[0m
+2022.12.22 16:32:22 WARN  Running javac-semanticdb failed for file:///home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java. Output:
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java:1: error: illegal character: '`'
+class `teste carro` {
+      ^
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java:1: error: illegal character: '`'
+class `teste carro` {
+                  ^
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java:3: error: reached end of file while parsing
+}
+ ^
+3 errors[0m
+2022.12.22 16:32:43 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java[0m
+2022.12.22 16:32:44 WARN  Running javac-semanticdb failed for file:///home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java. Output:
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java:1: error: illegal character: '`'
+class `testeCarro` {
+      ^
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java:1: error: illegal character: '`'
+class `testeCarro` {
+                 ^
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java:3: error: reached end of file while parsing
+}
+ ^
+3 errors[0m
+2022.12.22 16:32:46 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java[0m
+2022.12.22 16:33:31 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula30/testeCarro.java[0m
+2022.12.22 16:33:33 INFO  time: code lens generation in 1.7s[0m
+2022.12.22 16:33:48 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula29/testeCarro.java[0m
+2022.12.22 16:34:12 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula30/testeCarro.java[0m
+2022.12.22 16:34:52 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java[0m
+2022.12.22 16:34:59 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java[0m
+2022.12.22 16:35:08 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula30/testeCarro.java[0m
+2022.12.22 16:35:11 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java[0m
+2022.12.22 16:35:48 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java[0m
+2022.12.22 16:36:02 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java[0m
+2022.12.22 16:36:04 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/carro.java[0m
+2023.01.03 23:06:37 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lara/javaCursoLoiane/curso/.metals/lsp.trace.json or /home/lara/.cache/metals/lsp.trace.json[0m
+2023.01.03 23:06:39 INFO  logging to file /home/lara/javaCursoLoiane/curso/.metals/metals.log[0m
+2023.01.03 23:06:39 INFO  Started: Metals version 0.11.10 in workspace '/home/lara/javaCursoLoiane/curso' for client Visual Studio Code 1.74.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/lara/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.03 23:06:45 INFO  time: initialize in 5.97s[0m
+2023.01.03 23:06:46 WARN  Build server is not auto-connectable.[0m
+2023.01.03 23:06:46 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.03 23:06:46 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/carro.java[0m
+Jan 03, 2023 11:06:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Jan 03, 2023 11:06:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2023.01.03 23:06:49 INFO  time: code lens generation in 1.38s[0m
+2023.01.03 23:09:16 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/carro.java[0m
+2023.01.04 19:02:38 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lara/javaCursoLoiane/curso/.metals/lsp.trace.json or /home/lara/.cache/metals/lsp.trace.json[0m
+2023.01.04 19:02:40 INFO  logging to file /home/lara/javaCursoLoiane/curso/.metals/metals.log[0m
+2023.01.04 19:02:40 INFO  Started: Metals version 0.11.10 in workspace '/home/lara/javaCursoLoiane/curso' for client Visual Studio Code 1.74.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/lara/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.04 19:02:46 INFO  time: initialize in 5.79s[0m
+2023.01.04 19:02:46 WARN  Build server is not auto-connectable.[0m
+2023.01.04 19:02:46 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.04 19:02:47 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/carro.java[0m
+2023.01.04 19:02:49 INFO  time: code lens generation in 1.07s[0m
+2023.01.04 19:08:28 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/carro.java[0m
+2023.01.04 19:08:30 INFO  time: code lens generation in 1.45s[0m
+2023.01.04 19:09:03 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/carro.java[0m
+2023.01.04 19:16:46 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java[0m
+2023.01.04 19:16:48 INFO  time: code lens generation in 1.64s[0m
+2023.01.04 19:17:09 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+2023.01.04 19:17:24 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/testeCarro.java[0m
+Jan 04, 2023 7:26:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.01.04 19:28:06 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/carro.java[0m
+2023.01.04 19:28:06 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+2023.01.04 19:29:00 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula31/carro.java[0m
+2023.01.04 19:29:53 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/carro.java[0m
+Jan 04, 2023 7:39:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1654
+2023.01.04 19:39:32 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/carro.java[0m
+2023.01.04 19:40:22 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+2023.01.05 19:24:04 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lara/javaCursoLoiane/curso/.metals/lsp.trace.json or /home/lara/.cache/metals/lsp.trace.json[0m
+2023.01.05 19:24:05 INFO  logging to file /home/lara/javaCursoLoiane/curso/.metals/metals.log[0m
+2023.01.05 19:24:05 INFO  Started: Metals version 0.11.10 in workspace '/home/lara/javaCursoLoiane/curso' for client Visual Studio Code 1.74.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/lara/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.05 19:24:12 INFO  time: initialize in 6.86s[0m
+2023.01.05 19:24:13 WARN  Build server is not auto-connectable.[0m
+2023.01.05 19:24:13 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.05 19:24:13 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+2023.01.05 19:24:18 INFO  time: code lens generation in 4.88s[0m
+2023.01.06 21:19:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lara/javaCursoLoiane/curso/.metals/lsp.trace.json or /home/lara/.cache/metals/lsp.trace.json[0m
+2023.01.06 21:20:10 INFO  logging to file /home/lara/javaCursoLoiane/curso/.metals/metals.log[0m
+2023.01.06 21:20:10 INFO  Started: Metals version 0.11.10 in workspace '/home/lara/javaCursoLoiane/curso' for client Visual Studio Code 1.74.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/lara/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.06 21:20:43 INFO  time: initialize in 34s[0m
+2023.01.06 21:20:50 WARN  Build server is not auto-connectable.[0m
+2023.01.06 21:20:50 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.06 21:20:51 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+2023.01.06 23:12:39 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lara/javaCursoLoiane/curso/.metals/lsp.trace.json or /home/lara/.cache/metals/lsp.trace.json[0m
+2023.01.06 23:12:41 INFO  logging to file /home/lara/javaCursoLoiane/curso/.metals/metals.log[0m
+2023.01.06 23:12:41 INFO  Started: Metals version 0.11.10 in workspace '/home/lara/javaCursoLoiane/curso' for client Visual Studio Code 1.74.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/lara/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.06 23:12:47 INFO  time: initialize in 6.09s[0m
+2023.01.06 23:12:48 WARN  Build server is not auto-connectable.[0m
+2023.01.06 23:12:48 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.06 23:12:48 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+2023.01.06 23:12:50 INFO  time: code lens generation in 1.96s[0m
+2023.01.06 23:13:31 INFO  shutting down Metals[0m
+2023.01.06 23:29:51 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lara/javaCursoLoiane/curso/.metals/lsp.trace.json or /home/lara/.cache/metals/lsp.trace.json[0m
+2023.01.06 23:29:52 INFO  logging to file /home/lara/javaCursoLoiane/curso/.metals/metals.log[0m
+2023.01.06 23:29:52 INFO  Started: Metals version 0.11.10 in workspace '/home/lara/javaCursoLoiane/curso' for client Visual Studio Code 1.74.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/lara/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.06 23:29:55 INFO  time: initialize in 2.47s[0m
+2023.01.06 23:29:56 WARN  Build server is not auto-connectable.[0m
+2023.01.06 23:29:56 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.06 23:29:56 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+2023.01.06 23:29:58 INFO  time: code lens generation in 2.02s[0m
+2023.01.07 20:37:01 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lara/javaCursoLoiane/curso/.metals/lsp.trace.json or /home/lara/.cache/metals/lsp.trace.json[0m
+2023.01.07 20:37:05 INFO  logging to file /home/lara/javaCursoLoiane/curso/.metals/metals.log[0m
+2023.01.07 20:37:05 INFO  Started: Metals version 0.11.10 in workspace '/home/lara/javaCursoLoiane/curso' for client Visual Studio Code 1.74.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/lara/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.07 20:37:11 INFO  time: initialize in 6.07s[0m
+2023.01.07 20:37:12 WARN  Build server is not auto-connectable.[0m
+2023.01.07 20:37:12 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.07 20:37:13 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+Jan 07, 2023 8:37:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2023.01.07 20:37:14 WARN  Running javac-semanticdb failed for file:///home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java. Output:
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java:14: error: not a statement
+a
+^
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java:14: error: ';' expected
+a
+ ^
+2 errors[0m
+2023.01.07 20:37:20 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+2023.01.07 20:41:30 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/classes/flor.java[0m
+2023.01.07 20:41:31 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/classes/classe.java[0m
+2023.01.07 20:41:35 INFO  time: code lens generation in 4.52s[0m
+2023.01.07 20:41:35 INFO  time: code lens generation in 2.64s[0m
+2023.01.07 20:41:56 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/carro.java[0m
+Jan 07, 2023 8:41:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+Jan 07, 2023 8:41:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2023.01.07 20:49:46 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 20:50:02 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/carro.java[0m
+2023.01.07 20:50:04 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+2023.01.07 20:50:13 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora copy.java[0m
+2023.01.07 20:50:26 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/carro.java[0m
+2023.01.07 20:50:27 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula32/testeCarro.java[0m
+2023.01.07 20:50:47 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+Jan 07, 2023 8:51:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 176
+Jan 07, 2023 8:52:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 234
+2023.01.07 20:52:56 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 20:55:51 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 21:01:09 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 21:01:10 WARN  Running javac-semanticdb failed for file:///home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java. Output:
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java:23: error: illegal start of type
+return total;
+^
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java:23: error: ';' expected
+return total;
+      ^
+2 errors[0m
+Jan 07, 2023 9:02:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.01.07 21:06:44 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 21:07:19 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 21:10:13 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 21:11:34 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 21:15:03 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 21:15:03 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 21:15:31 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 21:16:50 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 21:17:18 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 21:20:12 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 21:21:23 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 21:21:37 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 21:21:37 WARN  Running javac-semanticdb failed for file:///home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java. Output:
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java:11: error: not a statement
+System.out.println();s
+                     ^
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java:11: error: ';' expected
+System.out.println();s
+                      ^
+2 errors[0m
+2023.01.07 21:21:40 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 21:21:43 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 23:17:50 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 23:22:13 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 23:22:13 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 23:22:18 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 23:25:15 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 23:30:40 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula18/breakEContinue.java[0m
+2023.01.07 23:30:41 INFO  time: code lens generation in 1.48s[0m
+Jan 07, 2023 11:31:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2574
+2023.01.07 23:31:34 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 23:35:21 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+Jan 07, 2023 11:38:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2768
+2023.01.07 23:39:24 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 23:40:06 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 23:40:11 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 23:40:59 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+Jan 07, 2023 11:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3217
+Jan 07, 2023 11:43:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3312
+2023.01.07 23:46:31 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.07 23:46:32 WARN  Running javac-semanticdb failed for file:///home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java. Output:
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java:14: error: '.class' expected
+System.out.println("o resultado é :"+ calc.soma(calc.soma(int[])));
+                                                               ^
+1 error[0m
+2023.01.07 23:47:26 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.07 23:48:03 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+Jan 07, 2023 11:48:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3637
+Jan 07, 2023 11:48:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3638
+2023.01.07 23:49:25 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.10 19:51:12 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lara/javaCursoLoiane/curso/.metals/lsp.trace.json or /home/lara/.cache/metals/lsp.trace.json[0m
+2023.01.10 19:51:14 INFO  logging to file /home/lara/javaCursoLoiane/curso/.metals/metals.log[0m
+2023.01.10 19:51:14 INFO  Started: Metals version 0.11.10 in workspace '/home/lara/javaCursoLoiane/curso' for client Visual Studio Code 1.74.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/lara/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.10 19:51:20 INFO  time: initialize in 6.53s[0m
+2023.01.10 19:51:21 WARN  Build server is not auto-connectable.[0m
+2023.01.10 19:51:21 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.10 19:51:22 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.10 19:51:25 INFO  time: code lens generation in 2.39s[0m
+2023.01.10 19:53:18 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.10 19:53:19 WARN  Running javac-semanticdb failed for file:///home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java. Output:
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java:14: error: not a statement
+s
+^
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java:14: error: ';' expected
+s
+ ^
+2 errors[0m
+2023.01.10 20:05:04 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.10 20:06:54 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/MinhaCalculadora.java[0m
+2023.01.10 20:07:04 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.10 20:07:06 INFO  time: code lens generation in 1.52s[0m
+2023.01.10 20:07:32 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/MinhaCalculadora.java[0m
+2023.01.10 20:08:45 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 20:13:43 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/MinhaCalculadora.java[0m
+Jan 10, 2023 8:15:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 329
+2023.01.10 20:20:08 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 20:20:09 WARN  Running javac-semanticdb failed for file:///home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java. Output:
+/home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java:5: error: ';' expected
+static int resultsoma
+                     ^
+1 error[0m
+2023.01.10 20:22:22 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 20:26:27 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 21:42:58 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/lara/javaCursoLoiane/curso/.metals/lsp.trace.json or /home/lara/.cache/metals/lsp.trace.json[0m
+2023.01.10 21:43:00 INFO  logging to file /home/lara/javaCursoLoiane/curso/.metals/metals.log[0m
+2023.01.10 21:43:00 INFO  Started: Metals version 0.11.10 in workspace '/home/lara/javaCursoLoiane/curso' for client Visual Studio Code 1.74.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/lara/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.10 21:43:07 INFO  time: initialize in 7.04s[0m
+2023.01.10 21:43:07 WARN  Build server is not auto-connectable.[0m
+2023.01.10 21:43:07 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.01.10 21:43:08 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 21:43:09 INFO  time: code lens generation in 1.13s[0m

@@ -184,10 +184,10 @@ ex:herda a caracteristca da classe pai
 ### OS MAIS UZADOS EM JAVA SÃO
 
 - INT
-- LONG
+- LONGs
 - DOUBLE
 
-
+this é utilizado para falar qual atributo,metodo ,qualquercoisa da propria classe ou szeja referencia coisas esistentes da classe (é um link)
 
 
 
