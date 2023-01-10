@@ -187,9 +187,9 @@ objeto=é o bolo
 - LONGs
 - DOUBLE
 
-this é utilizado para falar qual atributo,metodo ,qualquercoisa da propria classe ou szeja referencia coisas esistentes da classe (é um link)
+this é utilizado para falar qual atributo,metodo ,qualquercoisa da propria classe ou seja referencia coisas esistentes da classe (é um link)
 
-
+uma classe é a receita do codigo (objeto)(de como criar um objeto )ele pode atributos(caracteristicas)e metodos (açoes)e quando desejamos criar o objeto usamos a palavra chave (new)[para java]
 
 
 

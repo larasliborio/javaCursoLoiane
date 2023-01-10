@@ -14,9 +14,42 @@ public class testeMinhaCalculadora {
     resultsoma = MinhaCalculadora.soma(1, 2, 0);
 
     soma2valores(1, 2);
+    
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println();
+
+
+
+
+
+
+
+
   }
 
   static int soma2valores(int num1, int num2) {
     return MinhaCalculadora.soma(1, 2, 0);
+
+    
+    
+
+
   }
 }

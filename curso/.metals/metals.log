@@ -365,3 +365,4 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.01.10 22:15:52 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
 Jan 10, 2023 10:16:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 204
+2023.01.10 22:59:58 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
