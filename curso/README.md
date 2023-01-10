@@ -155,10 +155,10 @@ Herança= reutilização de estruturae do conportamento de uma claasse
 ex:herda a caracteristca da classe pai
 ```
 ```
-
+classe=receita do bolo 
 ```
 ```
-
+objeto=é o bolo
 ```
 ## TIPOS PRIMITIVOS
 

@@ -340,3 +340,28 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.01.10 21:43:07 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 2023.01.10 21:43:08 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
 2023.01.10 21:43:09 INFO  time: code lens generation in 1.13s[0m
+2023.01.10 21:44:52 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/MinhaCalculadora.java[0m
+2023.01.10 21:44:54 INFO  time: code lens generation in 1.29s[0m
+2023.01.10 21:44:54 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.10 21:44:56 INFO  time: code lens generation in 1.31s[0m
+2023.01.10 21:44:57 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/minhaCalculadora.java[0m
+2023.01.10 21:44:57 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 21:44:58 INFO  time: code lens generation in 1.28s[0m
+2023.01.10 21:54:26 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 21:55:52 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 21:59:09 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 21:59:52 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 22:00:21 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 22:00:29 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/MinhaCalculadora.java[0m
+2023.01.10 22:06:25 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/MinhaCalculadora.java[0m
+2023.01.10 22:06:28 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 22:14:00 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/MinhaCalculadora.java[0m
+2023.01.10 22:14:01 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 22:14:03 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/MinhaCalculadora.java[0m
+2023.01.10 22:14:07 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 22:14:10 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/MinhaCalculadora.java[0m
+2023.01.10 22:15:25 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+2023.01.10 22:15:30 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula33/testeMinhsCalculadora.java[0m
+2023.01.10 22:15:52 WARN  no build target for: /home/lara/javaCursoLoiane/curso/src/com/loiane/cursojava/aula34/testeMinhaCalculadora.java[0m
+Jan 10, 2023 10:16:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 204
