@@ -1,6 +1,6 @@
 package com.loiane.cursojava.class44;
 
-public abstract class animal{
+public abstract class Animal{
 
 private String Name ;
 public abstract void makeNoises();

@@ -1,9 +1,13 @@
 package com.loiane.cursojava.class44;
 
 
-public class dog extends mammal{
+public class Dog extends Mammal{
     private int haight;
     private String race;
+    public final String name;
+    public Dog(String name) {
+        this.name = name;
+    }
 
     public int getHaight() {
         return haight;

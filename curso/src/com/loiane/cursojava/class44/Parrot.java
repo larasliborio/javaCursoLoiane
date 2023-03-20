@@ -1,6 +1,6 @@
 package com.loiane.cursojava.class44;
 
-public class parrot extends bird{
+public class Parrot extends Bird{
 
     @Override
     public void fly() {

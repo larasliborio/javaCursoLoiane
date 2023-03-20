@@ -1,17 +1,22 @@
 package com.loiane.cursojava.class44;
 
 
-public class  cat extends mammal {
+public class  Cat extends Mammal {
 
+// public static final String System = " perce";
 private String race;
+public final String name;
 
+public Cat(String name) {
+    this.name = name;
+}
 
 public String getRace() {
     return race;
     }
     
     public void setRace(String race){
-        this.race = race;
+        this.race = "null";
     }
 
     @Override
