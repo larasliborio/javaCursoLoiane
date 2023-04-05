@@ -11640,3 +11640,6 @@ SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
 SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
 SLF4J: Ignoring binding found at [jar:file:/home/lara/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
 SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.05 16:40:04 INFO  time: initialize in 4.3s[0m
+2023.04.05 16:40:04 WARN  Build server is not auto-connectable.[0m
+2023.04.05 16:40:04 WARN  no build tool detected in workspace '/home/lara/javaCursoLoiane/curso'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
