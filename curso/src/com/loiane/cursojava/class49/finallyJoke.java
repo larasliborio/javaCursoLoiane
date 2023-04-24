@@ -28,7 +28,10 @@ public class finallyJoke {
         finally   {
             System.out.println("esta linnha é impressa sempre após do try ou catch"); 
         }
-         }
+         
+    
+        System.out.println(numeros[i]+ "/"+demon[i]+"="+(numeros[i]));}
         }
         }
+        
         
