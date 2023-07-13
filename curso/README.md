@@ -17,20 +17,23 @@ git push
 ```
 ## objetos e funções
 
-´´´
+```
 para esecultar o programa é f5
-´´´
+```
 ```
 o iguau  é para indicar que o valor da direita vai ser trocado com o valor da var a esquerda.
 ``` 
+
+```
+o Sibolo mais e utilisado para adicionar obijetos de mesmo valor
 ´´´
-o sibolo mais e utilisado para adicionar obijetos de mesmo valor
-´´´
-// funcion é um objeto q execulta uma ação
+
+```
+//funcion é um objeto q execulta uma ação
 <br>
 VAR | É uma keyword usada para criar uma variável mutável.
 
-exemplo:
+## exemplo:
 
 ```
 var nome
@@ -106,7 +109,8 @@ a estensao do meu read me markdown
 markdown é uma linguagem de marcasao para formatar textos sinples
 ```
 ```
-pwd comando linux para saber em qual diretorio a pessoa esta
+🔥 
+# pwd comando linux para saber em qual diretorio a pessoa esta
 ```
 ```
 linux sistema operacional 
@@ -119,9 +123,6 @@ cd para adicionar ao caminho  uma pasta
 ```
 ```
    pwd para ver o caminho                                       
-```
-```
-                            
 ```
 ```
 ###erros q podem dar
@@ -144,9 +145,6 @@ Pacotes forma de organizar classes
 Metodo = conportamento
 ```
 ```
-
-```
-```
 classe = descrição de um grupo de objetos
 
 ```
@@ -162,46 +160,31 @@ objeto=é o bolo
 ```
 ## TIPOS PRIMITIVOS
 
-- BOOLEAN
-- NUMEROS
+    - BOOLEAN
+    - NUMEROS
 
 ## NUMEROS
 ### INTEIROS
 
 
-- BYTE
-- SHORT
-- INT
-- LONG
-- CHAR
+    - BYTE
+    - SHORT
+    - INT
+    - LONG
+    - CHAR
 
 ### PONTOS FLUTUANTES
 
 
--  FLOAT
-- DOUBLE
+    -  FLOAT
+    - DOUBLE
 
 ### OS MAIS UZADOS EM JAVA SÃO
 
-- INT
-- LONGs
-- DOUBLE
+    - INT
+    - LONGs
+    - DOUBLE
 
-this é utilizado para falar qual atributo,metodo ,qualquercoisa da propria classe ou seja referencia coisas esistentes da classe (é um link)
+   this é utilizado para falar qual atributo,metodo ,qualquercoisa da propria classe ou seja referencia coisas esistentes da classe (é um link)
 
-uma classe é a receita do codigo (objeto)(de como criar um objeto )ele pode atributos(caracteristicas)e metodos (açoes)e quando desejamos criar o objeto usamos a palavra chave (new)[para java]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        uma classe é a receita do codigo (objeto) (de como criar um objeto )ele pode atributos(caracteristicas)e metodos (açoes)e quando desejamos criar o objeto usamos a palavra chave (new)[para java]

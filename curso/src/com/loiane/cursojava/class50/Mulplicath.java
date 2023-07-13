@@ -1,8 +1,8 @@
-package com.loiane.cursojava.class48;
+package com.loiane.cursojava.class50;
 
 import java.net.CacheRequest;
 
-public class Mulplicath1 {
+public class Mulplicath {
      /**
      * @param args
      */
