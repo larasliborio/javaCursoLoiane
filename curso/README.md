@@ -49,7 +49,7 @@ var nome
 ```
 exeplo:   var nome:String =null
 ```
-null é utilizado para indicar que a variavel n tem valor 
+null é utilizado para indicar que a variavel não tem valor 
 ```
 ```
 // utilizadp para  fazer comentari apenas no codigo
